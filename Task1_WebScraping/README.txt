@@ -33,4 +33,4 @@ Scraped book titles and ratings from books.toscrape.com using Python.
      ```csv
      "Great product!",5
      "Not worth the price.",2
-     ```  
+     ``` 
